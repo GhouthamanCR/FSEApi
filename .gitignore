@@ -4,3 +4,17 @@
 
 /CoreApi/.vs/CoreApi/v15
 /.vs
+/CoreApi/CoreApi/obj/Debug/netcoreapp2.1
+/CoreApi/CoreApi/obj
+/CoreApi/.vs/config
+/CoreApi/Contracts/obj
+/CoreApi/Contracts/bin/Debug/netcoreapp2.1
+/CoreApi/CoreApi/bin/Debug/netcoreapp2.1
+/CoreApi/CoreApi.Test/obj
+/CoreApi/CoreApi.Test/bin/Debug/netcoreapp2.1
+/CoreApi/CoreLogic/obj
+/CoreApi/CoreLogic/bin/Debug/netcoreapp2.1
+/CoreApi/CoreLogic.Tests/obj
+/CoreApi/CoreLogic.Tests/bin/Debug/netcoreapp2.1
+/CoreApi/DatabaseAccess/obj
+/CoreApi/DatabaseAccess/bin/Debug/netcoreapp2.1
